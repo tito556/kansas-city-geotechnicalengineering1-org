@@ -1,0 +1,51 @@
+# Geotechnicalengineering1 — Kansas City
+
+> Geotechnical engineering services in Kansas City, United States.
+
+## Services
+- [Anchors](https://kansas-city.geotechnicalengineering1.org/anchors/)
+- [Atterberg Limits](https://kansas-city.geotechnicalengineering1.org/atterberg-limits/)
+- [Cbr Road](https://kansas-city.geotechnicalengineering1.org/cbr-road/)
+- [Cpt Test](https://kansas-city.geotechnicalengineering1.org/cpt-test/)
+- [Deep Excavations](https://kansas-city.geotechnicalengineering1.org/deep-excavations/)
+- [Excavation Monitoring](https://kansas-city.geotechnicalengineering1.org/excavation-monitoring/)
+- [Excavations](https://kansas-city.geotechnicalengineering1.org/excavations/)
+- [Flexible Pavement](https://kansas-city.geotechnicalengineering1.org/flexible-pavement/)
+- [Footings](https://kansas-city.geotechnicalengineering1.org/footings/)
+- [Foundations](https://kansas-city.geotechnicalengineering1.org/foundations/)
+- [Geophysics](https://kansas-city.geotechnicalengineering1.org/geophysics/)
+- [Ground Improvement](https://kansas-city.geotechnicalengineering1.org/ground-improvement/)
+- [Grouting](https://kansas-city.geotechnicalengineering1.org/grouting/)
+- [In Situ Permeability](https://kansas-city.geotechnicalengineering1.org/in-situ-permeability/)
+- [Investigation](https://kansas-city.geotechnicalengineering1.org/investigation/)
+- [Lab In Situ](https://kansas-city.geotechnicalengineering1.org/lab-in-situ/)
+- [Laboratory](https://kansas-city.geotechnicalengineering1.org/laboratory/)
+- [Liquefaction](https://kansas-city.geotechnicalengineering1.org/liquefaction/)
+- [Masw](https://kansas-city.geotechnicalengineering1.org/masw/)
+- [Mat Foundations](https://kansas-city.geotechnicalengineering1.org/mat-foundations/)
+- [Piles](https://kansas-city.geotechnicalengineering1.org/piles/)
+- [Plate Load Test](https://kansas-city.geotechnicalengineering1.org/plate-load-test/)
+- [Resistivity](https://kansas-city.geotechnicalengineering1.org/resistivity/)
+- [Retaining Walls](https://kansas-city.geotechnicalengineering1.org/retaining-walls/)
+- [Rigid Pavement](https://kansas-city.geotechnicalengineering1.org/rigid-pavement/)
+- [Road Geotechnics](https://kansas-city.geotechnicalengineering1.org/road-geotechnics/)
+- [Sand Cone Density](https://kansas-city.geotechnicalengineering1.org/sand-cone-density/)
+- [Seismic](https://kansas-city.geotechnicalengineering1.org/seismic/)
+- [Seismic Isolation](https://kansas-city.geotechnicalengineering1.org/seismic-isolation/)
+- [Seismic Microzonation](https://kansas-city.geotechnicalengineering1.org/seismic-microzonation/)
+- [Seismic Refraction](https://kansas-city.geotechnicalengineering1.org/seismic-refraction/)
+- [Slope Stability](https://kansas-city.geotechnicalengineering1.org/slope-stability/)
+- [Slopes](https://kansas-city.geotechnicalengineering1.org/slopes/)
+- [Soft Ground Tunnels](https://kansas-city.geotechnicalengineering1.org/soft-ground-tunnels/)
+- [Spt Drilling](https://kansas-city.geotechnicalengineering1.org/spt-drilling/)
+- [Stone Columns](https://kansas-city.geotechnicalengineering1.org/stone-columns/)
+- [Test Pits](https://kansas-city.geotechnicalengineering1.org/test-pits/)
+- [Triaxial](https://kansas-city.geotechnicalengineering1.org/triaxial/)
+- [Vibrocompaction](https://kansas-city.geotechnicalengineering1.org/vibrocompaction/)
+
+## Contact
+- Website: https://kansas-city.geotechnicalengineering1.org/
+
+## About
+This site provides geotechnical engineering services in Kansas City, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
